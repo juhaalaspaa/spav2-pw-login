@@ -1,0 +1,22 @@
+{
+  "environments": {
+    "l": "https://localhost:8888/fi",
+    "d1": "https://kehityssahkoinenasiointi.ahtp.fi/fi",
+    "d2": "https://kehityssahkoinenasiointi2.ahtp.fi/fi",
+    "t1": "https://testisahkoinenasiointi.ahtp.fi/fi",
+    "t2": "https://testisahkoinenasiointi2.ahtp.fi/fi",
+    "q": "https://qasahkoinenasiointi.ahtp.fi/fi"
+  },
+  "ssnUsers": {      
+    "nordea": "210281-9988",
+    "turvakielto": "020491-9997",
+    "ilmari": "260991-999R",
+    "valma": "270653-9962"
+  },
+  "chrome": {
+    "userDataPath": "C:\\Users\\{UserName}\\AppData\\Local\\Google\\Chrome\\User Data\\Profile 1",
+    "reactDevToolsExtensionPath": "C:\\Users\\{UserName}\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Extensions\\fmkadmapgofadopljbjfkapdkoienihi\\6.0.1_0",
+    "reduxDevToolsExtensionPath": "C:\\Users\\{UserName}\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Extensions\\lmhkpmbekcpmknklioeibfkpmmfibljd\\3.2.7_0",
+    "executablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+  }
+}

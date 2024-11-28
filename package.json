@@ -1,0 +1,19 @@
+{
+  "name": "spav2-pw",
+  "version": "1.0.0",
+  "description": "Automated SPAv2 login for different environments (local/dev/test/qa)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "aa": "./aa.js",
+    "te": "./te.js"
+  },
+  "author": "juha.alaspaa@alfame.com",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.49.0",
+    "yargs": "^17.7.1"
+  }
+}
